@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Primary Colors */
+    --primary-orange: #FF4C29;
+    --primary-yellow: #F2A21F;
+    --primary-blue: #3366FF;
+    
+    /* Heatmap Colors */
+    --heat-low: #3B82F6;      /* Blue */
+    --heat-medium: #F59E0B;   /* Yellow */
+    --heat-high: #EF4444;     /* Red */
+    --heat-critical: #DC2626; /* Dark Red */
+    
+    /* UI Colors */
+    --bg-primary: #FFFFFF;
+    --bg-secondary: #F8FAFC;
+    --text-primary: #1E293B;
+    --text-secondary: #64748B;
+    --border: #E2E8F0;
+    
+    /* Status Colors */
+    --success: #10B981;
+    --warning: #F59E0B;
+    --error: #EF4444;
+    --info: #3B82F6;
+  }
+
+  * {
+    @apply box-border;
+  }
+
+  html, body {
+    @apply h-full;
+  }
+
+  body {
+    @apply font-sans text-gray-900 antialiased;
+  }
+
+  #root {
+    @apply h-full;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-4 py-2 rounded-lg font-medium transition-colors duration-200;
+  }
+
+  .btn-primary {
+    @apply bg-primary-orange text-white hover:bg-opacity-90;
+  }
+
+  .btn-secondary {
+    @apply bg-gray-200 text-gray-800 hover:bg-gray-300;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-lg border border-gray-100;
+  }
+
+  .modal-backdrop {
+    @apply fixed inset-0 bg-black/50 backdrop-blur-sm z-40;
+  }
+
+  .modal-content {
+    @apply fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-50;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .gradient-heatmap {
+    background: linear-gradient(90deg, 
+      var(--heat-low) 0%, 
+      var(--heat-medium) 50%, 
+      var(--heat-high) 100%);
+  }
+}

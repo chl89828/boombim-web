@@ -1,0 +1,450 @@
+[debug] [2025-08-28T06:57:03.343Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.345Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.346Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.346Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.346Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.346Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.346Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.346Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.346Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:57:03.346Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.359Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.359Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.360Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.360Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.360Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.360Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.361Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.361Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.361Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.361Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.361Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.361Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.362Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.362Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.370Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.370Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.370Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.370Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.370Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.370Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.373Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.373Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.373Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.373Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.373Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.373Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:03.374Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:57:03.374Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.375Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.375Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.376Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.376Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.376Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.376Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.376Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.376Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.376Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.376Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.377Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.377Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.377Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.377Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.377Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:57:03.377Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.377Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.377Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.378Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:03.379Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:57:03.379Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:04.918Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com 200
+[debug] [2025-08-28T06:57:04.918Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:04.929Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:57:04.929Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:04.930Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-08-28T06:57:04.930Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:04.935Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com 200
+[debug] [2025-08-28T06:57:04.935Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:04.941Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:57:04.941Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:04.941Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com 200
+[debug] [2025-08-28T06:57:04.941Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:04.947Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:57:04.947Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:05.129Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:57:05.130Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:57:06.023Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:57:06.023Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.038Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:57:06.038Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.038Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:57:06.038Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.038Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:57:06.038Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.038Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-08-28T06:57:06.038Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.043Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:57:06.043Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.056Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com 200
+[debug] [2025-08-28T06:57:06.056Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.063Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com 200
+[debug] [2025-08-28T06:57:06.063Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.068Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com 200
+[debug] [2025-08-28T06:57:06.068Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/storage.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.074Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:57:06.074Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.082Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-08-28T06:57:06.082Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.088Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com 200
+[debug] [2025-08-28T06:57:06.088Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.095Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T06:57:06.095Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T06:57:06.095Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com 200
+[debug] [2025-08-28T06:57:06.095Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/fcm.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:06.376Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T06:57:06.376Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T06:57:06.481Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:57:06.481Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:57:06.539Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:57:06.539Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:57:08.275Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.276Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.276Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.276Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.276Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.276Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.277Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.277Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.277Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:57:08.277Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.288Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.288Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.289Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.289Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.289Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.289Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:57:08.300Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:57:08.300Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.301Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.301Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.301Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.301Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.302Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.302Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.302Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:57:08.302Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.302Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.302Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.303Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.303Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.303Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:57:08.303Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:57:08.971Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:57:08.971Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:57:09.717Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:57:09.717Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:09.718Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:57:09.718Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:09.740Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:57:09.740Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:09.972Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:57:09.972Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:10.158Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:57:10.158Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:57:10.161Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:57:10.161Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:57:11.144Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:57:11.144Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:11.151Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:57:11.151Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:11.152Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:57:11.152Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:11.158Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:57:11.158Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:11.163Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T06:57:11.163Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T06:57:11.165Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:57:11.165Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:57:11.168Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T06:57:11.168Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T06:58:59.265Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.267Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.267Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.267Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.267Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.268Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.268Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.268Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.268Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:58:59.268Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.279Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.280Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.280Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.280Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.281Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.281Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.291Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.291Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.291Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.291Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:58:59.292Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:58:59.292Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.293Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.293Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.293Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.293Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.293Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.293Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.294Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:58:59.294Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.294Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.294Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.294Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.294Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:58:59.295Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:58:59.295Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:00.693Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:59:00.693Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.693Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:59:00.693Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.698Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:59:00.699Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.720Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:59:00.720Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.720Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:59:00.721Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.721Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:59:00.721Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.727Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:59:00.727Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.731Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:59:00.731Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.740Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:59:00.740Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:00.802Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:59:00.802Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:59:00.803Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T06:59:00.803Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T06:59:00.926Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:59:00.926Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:59:00.988Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:59:00.988Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:59:00.991Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T06:59:00.991Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T06:59:47.497Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.500Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.500Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.500Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:59:47.500Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.512Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.512Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.512Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.513Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.513Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.513Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T06:59:47.524Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:59:47.525Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.525Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.525Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.526Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.526Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.526Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.526Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.526Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T06:59:47.526Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.527Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.527Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.527Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.527Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:47.527Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T06:59:47.527Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T06:59:48.922Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:59:48.922Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:48.943Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:59:48.943Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:48.969Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:59:48.969Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:48.973Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:59:48.973Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:48.984Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:59:48.984Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:48.986Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:59:48.986Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:59:49.001Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T06:59:49.001Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:49.058Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:59:49.058Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:49.111Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T06:59:49.111Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:49.217Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T06:59:49.217Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T06:59:49.232Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:59:49.232Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:59:49.235Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T06:59:49.236Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T06:59:49.281Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T06:59:49.281Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T06:59:49.284Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T06:59:49.284Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T07:00:10.475Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.477Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.477Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.477Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.477Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.477Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.477Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.477Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.478Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T07:00:10.478Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.488Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.488Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.489Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.489Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.489Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.489Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.497Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.497Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.497Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.497Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.497Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.497Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.499Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.500Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.500Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.500Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.500Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.500Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.500Z] Checked if tokens are valid: true, expires at: 1756366416230
+[debug] [2025-08-28T07:00:10.500Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T07:00:10.500Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.500Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.500Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.501Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.501Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.501Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.501Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.501Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [none]
+[debug] [2025-08-28T07:00:10.501Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.502Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.502Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.502Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.502Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:10.502Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-08-28T07:00:10.502Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/boombim-claude
+[debug] [2025-08-28T07:00:11.115Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T07:00:11.115Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:11.926Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T07:00:11.927Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:11.932Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T07:00:11.932Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T07:00:11.936Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T07:00:11.936Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:11.954Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T07:00:11.954Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:11.955Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-08-28T07:00:11.955Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:11.963Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T07:00:11.963Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:11.964Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T07:00:11.964Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:11.976Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T07:00:11.976Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T07:00:12.021Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-08-28T07:00:12.021Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:12.100Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-08-28T07:00:12.100Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-08-28T07:00:12.102Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T07:00:12.102Z] > authorizing via signed-in user (chl89828@gmail.com)
+[debug] [2025-08-28T07:00:12.151Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ 200
+[debug] [2025-08-28T07:00:12.151Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/boombim-claude/services/ [omitted]
+[debug] [2025-08-28T07:00:12.153Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-28T07:00:12.153Z] > authorizing via signed-in user (chl89828@gmail.com)
