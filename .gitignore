@@ -114,6 +114,13 @@ vite.config.ts.timestamp-*
 # Firebase
 firebase-debug.log*
 firebase-debug.*.log
+.firebaserc
+
+# Environment templates and sensitive configs
+.env.*.template
+.env.local.template
+*.credentials
+*.secrets
 
 # Claude Code files
 .claude/settings.local.json
