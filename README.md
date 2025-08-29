@@ -51,30 +51,33 @@ npm install
 
 ### 3. 환경 변수 설정
 
-`.env.local.template`을 복사하여 `.env.local` 생성:
+`.env.local` 파일을 생성하고 실제 환경 변수 값을 입력:
 
 ```bash
-cp .env.local.template .env.local
+# .env.local 파일 생성
+touch .env.local
 ```
 
-`.env.local` 파일에 실제 값 입력:
+`.env.local` 파일 내용 (실제 값으로 교체 필요):
 
 ```env
-# Mapbox Access Token (선택사항 - 실제 지도 모드 사용 시에만 필요)
-VITE_MAPBOX_ACCESS_TOKEN=pk.your_actual_mapbox_token
+# Mapbox Access Token (선택사항 - 픽토그램 모드는 이 설정 없이도 작동)
+VITE_MAPBOX_ACCESS_TOKEN=실제_Mapbox_토큰
 
-# Firebase 설정 (필수)
-VITE_FIREBASE_API_KEY=your_firebase_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=your-project-id
-VITE_FIREBASE_STORAGE_BUCKET=your-project.appspot.com
-VITE_FIREBASE_MESSAGING_SENDER_ID=123456789
-VITE_FIREBASE_APP_ID=1:123456789:web:abcdef123456
+# Firebase 설정 (실제 Firebase 프로젝트 정보로 교체 필요)
+VITE_FIREBASE_API_KEY=실제_Firebase_API_키
+VITE_FIREBASE_AUTH_DOMAIN=실제_프로젝트.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=실제_프로젝트_ID
+VITE_FIREBASE_STORAGE_BUCKET=실제_프로젝트.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID=실제_메신저_ID
+VITE_FIREBASE_APP_ID=실제_앱_ID
 
 # 개발 환경 설정
 NODE_ENV=development
 VITE_APP_ENV=development
 ```
+
+> **보안 주의**: 실제 API 키와 토큰을 사용하고, 이 파일을 절대 git에 커밋하지 마세요.
 
 ### 4. 개발 서버 실행
 

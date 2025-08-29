@@ -39,19 +39,19 @@ touch .env.local
 
 `.env.local` 파일 내용:
 ```env
-# Mapbox
-VITE_MAPBOX_ACCESS_TOKEN=pk.your_mapbox_token_here
+# Mapbox (선택사항 - 픽토그램 모드는 이 설정 없이도 작동)
+VITE_MAPBOX_ACCESS_TOKEN=pk.ey...실제_토큰_입력
 
-# Firebase (개발 환경)
-VITE_FIREBASE_API_KEY=your_firebase_api_key
-VITE_FIREBASE_AUTH_DOMAIN=boombim-dev.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=boombim-dev
-VITE_FIREBASE_STORAGE_BUCKET=boombim-dev.appspot.com
-VITE_FIREBASE_MESSAGING_SENDER_ID=123456789
-VITE_FIREBASE_APP_ID=1:123456789:web:abcdef123456
+# Firebase (개발 환경 - 실제 값으로 교체 필요)
+VITE_FIREBASE_API_KEY=실제_API_키
+VITE_FIREBASE_AUTH_DOMAIN=실제_프로젝트.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=실제_프로젝트_ID
+VITE_FIREBASE_STORAGE_BUCKET=실제_프로젝트.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID=실제_sender_ID
+VITE_FIREBASE_APP_ID=1:실제_ID:web:실제_앱_ID
 
-# KT API (Firebase Functions에서 사용)
-FIREBASE_KT_API_KEY=your_kt_api_key_here
+# KT API (Firebase Functions에서 사용 - 실제 값으로 교체 필요)
+FIREBASE_KT_API_KEY=실제_KT_API_키
 FIREBASE_KT_API_URL=https://api.kt.com/population/v1
 
 # 개발 환경 설정
@@ -78,8 +78,8 @@ firebase init
 # - Hosting: Configure and deploy Firebase Hosting sites
 # - Storage: Configure and deploy Cloud Storage buckets
 
-# Functions 환경 변수 설정
-firebase functions:config:set kt.api_key="your_kt_api_key"
+# Functions 환경 변수 설정 (실제 키로 교체 필요)
+firebase functions:config:set kt.api_key="실제_KT_API_키"
 firebase functions:config:set kt.api_url="https://api.kt.com/population/v1"
 ```
 
