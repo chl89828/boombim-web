@@ -13,7 +13,10 @@ type ViewMode = 'mapbox' | 'pictogram';
 
 const App: React.FC = () => {
   const { setError } = useAppStore();
-  const [viewMode, setViewMode] = useState<ViewMode>('pictogram'); // 기본을 픽토그램으로 변경
+  
+  // Mapbox 토큰 유무에 따른 기본 모드 결정
+  const hasMapboxToken = !!import.meta.env.VITE_MAPBOX_ACCESS_TOKEN;
+  const [viewMode, setViewMode] = useState<ViewMode>('pictogram');
 
   // 유동인구 데이터 가져오기 (Mapbox 모드에서만 활성화)
   const {
@@ -44,7 +47,7 @@ const App: React.FC = () => {
   // 에러 상태를 store에 동기화
   useEffect(() => {
     if (isError && error) {
-      setError(error.message);
+      setError(error instanceof Error ? error.message : '알 수 없는 오류가 발생했습니다.');
     } else if (!isError) {
       setError(null);
     }
@@ -58,6 +61,10 @@ const App: React.FC = () => {
 
   // 뷰 모드 전환 핸들러
   const toggleViewMode = () => {
+    if (!hasMapboxToken && viewMode === 'pictogram') {
+      alert('Mapbox 토큰이 설정되지 않았습니다. 환경 변수를 설정한 후 페이지를 새로고침하세요.');
+      return;
+    }
     setViewMode(prev => prev === 'mapbox' ? 'pictogram' : 'mapbox');
   };
 
@@ -107,7 +114,7 @@ const App: React.FC = () => {
               데이터를 불러올 수 없습니다
             </h2>
             <p className="text-gray-600 mb-6">
-              {error?.message || '알 수 없는 오류가 발생했습니다.'}
+              {error instanceof Error ? error.message : '알 수 없는 오류가 발생했습니다.'}
             </p>
             <button
               onClick={() => refresh()}
@@ -139,10 +146,16 @@ const App: React.FC = () => {
               </span>
               <button
                 onClick={toggleViewMode}
-                className="relative inline-flex h-6 w-11 items-center rounded-full bg-gray-200 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+                disabled={!hasMapboxToken && viewMode === 'pictogram'}
+                className={`relative inline-flex h-6 w-11 items-center rounded-full transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 ${
+                  !hasMapboxToken && viewMode === 'pictogram' 
+                    ? 'opacity-50 cursor-not-allowed' 
+                    : ''
+                }`}
                 style={{
                   backgroundColor: viewMode === 'mapbox' ? '#3B82F6' : '#E5E7EB'
                 }}
+                title={!hasMapboxToken ? 'Mapbox 토큰이 필요합니다' : ''}
               >
                 <span
                   className={`inline-block h-4 w-4 transform rounded-full bg-white transition-transform ${
@@ -150,8 +163,10 @@ const App: React.FC = () => {
                   }`}
                 />
               </button>
-              <span className={viewMode === 'mapbox' ? 'text-blue-600 font-medium' : ''}>
-                실제 지도
+              <span className={`${viewMode === 'mapbox' ? 'text-blue-600 font-medium' : ''} ${
+                !hasMapboxToken ? 'text-gray-400' : ''
+              }`}>
+                실제 지도 {!hasMapboxToken && '(토큰 필요)'}
               </span>
             </div>
           </div>

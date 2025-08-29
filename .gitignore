@@ -10,6 +10,8 @@ node_modules/
 # Environment variables
 .env
 .env.local
+.env.development
+.env.production
 .env.development.local
 .env.test.local
 .env.production.local
@@ -108,6 +110,10 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Firebase
+firebase-debug.log*
+firebase-debug.*.log
 
 # Claude Code files
 .claude/settings.local.json

@@ -2,6 +2,12 @@
   "projects": {
     "default": "boombim-claude"
   },
-  "targets": {},
+  "targets": {
+    "boombim-claude": {
+      "hosting": {
+        "production": ["boombim-claude"]
+      }
+    }
+  },
   "etags": {}
 }

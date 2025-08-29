@@ -22,17 +22,25 @@ const queryClient = new QueryClient({
   },
 });
 
-// 환경 변수 검증
+// 환경 변수 검증 (Mapbox는 선택사항)
 const requiredEnvVars = [
-  'VITE_MAPBOX_ACCESS_TOKEN',
   'VITE_FIREBASE_API_KEY',
   'VITE_FIREBASE_PROJECT_ID'
 ];
 
-const missingEnvVars = requiredEnvVars.filter(varName => !import.meta.env[varName]);
+const optionalEnvVars = [
+  'VITE_MAPBOX_ACCESS_TOKEN' // 실제 지도 모드 사용 시에만 필요
+];
 
-if (missingEnvVars.length > 0 && import.meta.env.PROD) {
-  console.error('Missing required environment variables:', missingEnvVars);
+const missingRequiredVars = requiredEnvVars.filter(varName => !import.meta.env[varName]);
+const missingOptionalVars = optionalEnvVars.filter(varName => !import.meta.env[varName]);
+
+if (missingRequiredVars.length > 0 && import.meta.env.PROD) {
+  console.error('Missing required environment variables:', missingRequiredVars);
+}
+
+if (missingOptionalVars.length > 0) {
+  console.info('Optional environment variables not set (픽토그램 모드만 사용 가능):', missingOptionalVars);
 }
 
 ReactDOM.createRoot(document.getElementById('root')!).render(

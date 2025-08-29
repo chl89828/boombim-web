@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import DistrictTile from './DistrictTile';
 import DistrictTooltip from './DistrictTooltip';
-import { SEOUL_DISTRICTS, PICTOGRAM_CONFIG, getDistrictColor } from '@/data/districts';
+import { SEOUL_DISTRICTS, PICTOGRAM_CONFIG } from '@/data/districts';
 import { District, PictogramMapProps } from '@/types/pictogram';
 
 interface TooltipState {
@@ -175,7 +175,7 @@ const PictogramMapView = ({
                 isHovered={hoveredDistrict === district.id}
                 colorIntensity={getColorIntensity(district)}
                 onClick={() => handleDistrictClick(district)}
-                onMouseEnter={(e) => handleDistrictHover(district, e as any)}
+                onMouseEnter={(e) => handleDistrictHover(district, e as React.MouseEvent)}
                 onMouseLeave={() => handleDistrictHover(null)}
                 showLabel={showLabels}
               />
